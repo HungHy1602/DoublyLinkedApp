@@ -5,9 +5,9 @@
  */
 package doublylinkedapp;
 
-/**
- *
- * @author ASUS
+/* Name: Le Cong Hung
+Student Code: SE161248
+Purpose: Problem 3: Doubly Linked list
  */
 class DoublyLinkedApp
    {
